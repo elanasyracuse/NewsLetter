@@ -1,0 +1,20 @@
+{
+  "start_time": "2025-11-19T01:45:51.820154",
+  "steps": {
+    "fetch": {
+      "papers_stored": 0,
+      "status": "SKIPPED"
+    },
+    "parse": {
+      "success": 0,
+      "status": "SKIPPED"
+    },
+    "embeddings": {
+      "success": 0,
+      "status": "SKIPPED"
+    }
+  },
+  "status": "FAILED",
+  "error": "'DatabaseManager' object has no attribute 'get_papers_for_summarization'",
+  "end_time": "2025-11-19T01:45:51.820446"
+}

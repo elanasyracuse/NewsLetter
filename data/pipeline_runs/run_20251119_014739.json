@@ -1,0 +1,20 @@
+{
+  "start_time": "2025-11-19T01:47:39.026749",
+  "steps": {
+    "fetch": {
+      "papers_stored": 0,
+      "status": "SKIPPED"
+    },
+    "parse": {
+      "success": 0,
+      "status": "SKIPPED"
+    },
+    "embeddings": {
+      "success": 0,
+      "status": "SKIPPED"
+    },
+    "team_data": {}
+  },
+  "status": "SUCCESS",
+  "end_time": "2025-11-19T01:47:39.027241"
+}
